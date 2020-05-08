@@ -23,6 +23,7 @@ $ brew install wget
 
 
 [Permission PWOSX Folder]
+
 $ unzip x PWOSX.zip
 
 $ sudo chmod 777 PWOSX
